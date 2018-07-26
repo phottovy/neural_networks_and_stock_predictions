@@ -1,4 +1,5 @@
 # Predicting Stock Prices using Neural Networks
+By: Elias Carciente, Pat Hottovy, and Jim McGugan
 
 When deciding a topic for this case study, we were immediately drawn to the Kaggle stock price dataset. Yes, this was definitely our first choice for a project.
 
@@ -14,8 +15,23 @@ For our predictions, we used LSTM to build a recurrent neural network. Instead o
 
 ## Process
 
+Once we had clean data, each member of the group chose a different area to focus on.
+* Elias built an RNN focusing on Tech Stocks
+* Jim focused on optimizing a model using Google stock as a baseline.
+* Pat focused on analyzing the data using more conventional methods.
+
+## Interpretations
+
+![heatmap](/images/heatmap.png)
+
+Pat began by looking for relationships between the stock prices of the companies.
+
+
 ![google](/images/LSTM_layers.png)
 
-We initially used Google's stock to build and tune our model.
+Jim initially used Google's stock to build and tune his model.
 
-Next, we focused on technology stocks to see how grouping companies from similar industries impacted our predictions.
+
+
+
+Elias focused on technology stocks to see how grouping companies from similar industries impacted our predictions.
