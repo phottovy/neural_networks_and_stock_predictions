@@ -41,4 +41,4 @@ Elias focused on technology stocks to see how grouping companies from similar in
 ## Final Analysis
 * When picking a topic, ask yourself "Does this data have available target data?"
 * Know when to cut your losses and pivot!
-* And most of all, have fun!
+* ## **And most of all, have fun!**
