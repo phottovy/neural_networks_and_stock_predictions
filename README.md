@@ -18,12 +18,12 @@ For our predictions, we used LSTM to build a recurrent neural network. Instead o
 Once we had clean data, each member of the group chose a different area to focus on.
 * Jim focused on optimizing a model using Google stock as a baseline.
 * Elias tried to perform the same prediction, but using additional stocks to give more information to de predictor.
-* Pat focused on analyzing the data using more conventional methods.
+* Pat focused on analyzing the data using more conventional methods and working on his timeseries data skills in preparation for his capstone.
 
 ## Interpretations
 
 ![heatmap](/images/heatmap.png)
-![top5](/images/top_stocks.png)
+![top5](/images/top_stocks2.png)
 
 Pat began by looking for relationships between the stock prices and comparing the growth of the companies.
 
