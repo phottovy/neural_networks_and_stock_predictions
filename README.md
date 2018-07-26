@@ -23,8 +23,9 @@ Once we had clean data, each member of the group chose a different area to focus
 ## Interpretations
 
 ![heatmap](/images/heatmap.png)
+![top5](/images/top_stocks.png)
 
-Pat began by looking for relationships between the stock prices of the companies.
+Pat began by looking for relationships between the stock prices and comparing the growth of the companies.
 
 
 ![google](/images/LSTM_layers.png)
