@@ -16,8 +16,8 @@ For our predictions, we used LSTM to build a recurrent neural network. Instead o
 ## Process
 
 Once we had clean data, each member of the group chose a different area to focus on.
-* Elias built an RNN focusing on Tech Stocks
 * Jim focused on optimizing a model using Google stock as a baseline.
+* Elias tried to perform the same prediction, but using additional stocks to give more information to de predictor.
 * Pat focused on analyzing the data using more conventional methods.
 
 ## Interpretations
@@ -32,7 +32,13 @@ Pat began by looking for relationships between the stock prices and comparing th
 
 Jim initially used Google's stock to build and tune his model.
 
+![simple](images/Simple_model_5_stocks.png)
+![simple](images/Deep_model_5_stocks.png)
+
+Elias focused on technology stocks to see how grouping companies from similar industries impacted our predictions. Guessing that good performers might have some correlation, the experiment included the two best and the two worst performers, to balance correlation with relevance.
 
 
-
-Elias focused on technology stocks to see how grouping companies from similar industries impacted our predictions.
+## Final Analysis
+* When picking a topic, ask yourself "Does this data have available target data?"
+* Know when to cut your losses and pivot!
+* And most of all, have fun!
